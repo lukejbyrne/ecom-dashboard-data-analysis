@@ -20,7 +20,7 @@ Below are the SQL statements for cleansing and transforming necessary data.
 ```
 -- Cleansed DIM_DateTable --
 SELECT
-	d.DateKey,
+    d.DateKey,
     d.FullDateAlternateKey AS Date,
     d.EnglishDayNameOfWeek AS Day,
     d.WeekNumberOfYear AS WeekNr,

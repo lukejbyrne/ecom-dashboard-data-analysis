@@ -1,6 +1,7 @@
 # Sales Dashboard 
 ## Summary
 The sales dashboard project was created to enhance internet sales reporting by moving from static reports to dynamic visual dashboards. The dashboard tracks sales by product and customer, allows filtering by sales representatives, and compares performance against the budget. Data was cleansed and transformed using SQL, and the resulting Power BI dashboard provides a comprehensive view of sales trends, enabling better analysis and decision-making for sales managers and representatives.
+
 ![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/SalesDashboard/SalesDashboard-1.png)
 
 ## Business Request & User Stories
@@ -19,7 +20,7 @@ As a result of the received request, the following stories were created.
 | # | As a (role)          | I want (request / demand)                           | So that I (user value)                                                    | Acceptance Criteria                                                   |
 |---|----------------------|-----------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 1 | Sales Manager        | To get a dashboard overview of internet sales       | Can follow better which customers and products sells the best             | A Power BI dashboard which updates data once a day                    |
-| 2 | Sales Representative | A detailed overview of Internet Sales per Customers | Can follow up with my customers that buy the most and who we can sell more to | A Power BI dashboard which allows me to filter data for each customer |
+| 2 | Sales Representative | A detailed overview of Internet Sales per Customers | Can follow up with my customers who buy the most and who we can sell more to | A Power BI dashboard which allows me to filter data for each customer |
 | 3 | Sales Representative | A detailed overview of Internet Sales per Product  | Can follow up my Products that sell the most                             | A Power BI dashboard which allows me to filter data for each Product  |
 | 4 | Sales Manager        | A dashboard overview of internet sales              | Follow sales over time against budget                                     | A Power BI dashboard with graphs and KPIs comparing against budget.   |
 

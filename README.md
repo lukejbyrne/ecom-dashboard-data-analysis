@@ -90,7 +90,9 @@ ORDER BY
 ```
 
 ## Data Model
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/datamodel.webp)
 
 ## Sales Management Dashboard
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
+
+![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/SalesDashboard.pdf)

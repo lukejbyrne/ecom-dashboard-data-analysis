@@ -1,5 +1,5 @@
 # Sales Dashboard 
-![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/SalesDashboard/SalesDashboard-1.pdf)
+![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/SalesDashboard/SalesDashboard-1.png)
 
 ## Business Request & User Stories
 The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
@@ -96,6 +96,6 @@ ORDER BY
 ## Sales Management Dashboard
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
 
-![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/SalesDashboard/SalesDashboard-1.pdf)
-![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/SalesDashboard/SalesDashboard-2.pdf)
-![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/SalesDashboard/SalesDashboard-3.pdf)
+![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/SalesDashboard/SalesDashboard-1.png)
+![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/SalesDashboard/SalesDashboard-2.png)
+![alt text](https://github.com/lukejbyrne/sales-dashboard-data-analysis/blob/main/SalesDashboard/SalesDashboard-3.png)
